@@ -4,12 +4,12 @@
   "description": "WhatsApp bot made with nodejs and baileys",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name bot",
-    "stop": "pm2 stop bot"
+    "start": "pm2 start . --attach --name Vajira",
+    "stop": "pm2 stop Vajira"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inrl-official/inrl-bot-md.git test"
+    "url": "git+https://github.com/VajiraTech/VAJIRA-MD.git test"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

@@ -120,7 +120,7 @@ const WhatsBotConnect = async () => {
 		fs.mkdirSync('./auth_info_baileys');
 	}
 	const file = fs.readFileSync('./Dockerfile', 'utf8');
-	const res = file.split('\n')[1] == 'RUN git clone https://github.com/inr-l/inrl-bot-md /heroku';
+	const res = file.split('\n')[1] == 'RUN git clone https://github.com/VajiraTech/VAJIRA-MD /VajiraTech';
 	const fileLength = fs.statSync('./Dockerfile');
 	const dif = 195 - fileLength.size;
 	if ((dif > 3 || dif < 1) || res == false) {

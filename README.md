@@ -1,4 +1,4 @@
-## INRL Multi Device Whatsapp Bot.
+## VAJIRA Multi Device Whatsapp Bot.
 
 ***
 
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku 
 
-<a href="https://upper-romy-inrl-bot.koyeb.app/deploy/heroku"><img title="VAJIRA-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://vajiratech.github.io/QUEEN-IZUMI-WEB/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img title="VAJIRA-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 ---

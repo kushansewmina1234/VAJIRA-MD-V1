@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: inrl-md
+    name: VAJIRA-MD
     env: node
     branch: main
-    repo: https://github.com/inrl-official/inrl-bot-md.git
+    repo: https://github.com/VajiraTech/VWJIRA-MD.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
@@ -12,7 +12,7 @@ services:
       - key: SESSION_ID
         sync: false
       - key: BOT_INFO
-        value: inrl;bot;https://i.imgur.com/VIpl3q5.mp4
+        value: VAJIRA;BOT;https://i.imgur.com/VIpl3q5.mp4
       - key: WARN_COUNT
         value: 3
       - key: STATUS_VIEW
@@ -30,7 +30,7 @@ services:
       - key: REACT
         value: command
       - key: AUDIO_DATA
-        value: inrl;bot;https://i.imgur.com/VgxJeCm.jpeg
+        value: VAJIRA;BIT;https://i.imgur.com/VgxJeCm.jpeg
       - key: SUDO
         value: 917025673121
       - key: DATABASE_URL
